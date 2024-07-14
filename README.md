@@ -1,6 +1,6 @@
 # FileCompressorApp
 
-FileCompressorApp is a WPF application designed to compress files in a selected directory. The application supports compressing PNG, JPEG, and PDF files, and displays the progress of the compression process.
+FileCompressorApp is a Windows Forms application designed to compress files in a selected directory. The application supports compressing PNG, JPEG, and PDF files, and displays the progress of the compression process.
 
 ## Features
 
@@ -19,5 +19,5 @@ FileCompressorApp is a WPF application designed to compress files in a selected 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ala-obeidat/FileCompressorApp.git
+git clone https://github.com/yourusername/FileCompressorApp.git
 cd FileCompressorApp
