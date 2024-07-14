@@ -19,5 +19,5 @@ FileCompressorApp is a WPF application designed to compress files in a selected 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FileCompressorApp.git
+git clone https://github.com/ala-obeidat/FileCompressorApp.git
 cd FileCompressorApp
