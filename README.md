@@ -19,5 +19,5 @@ FileCompressorApp is a Windows Forms application designed to compress files in a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FileCompressorApp.git
+git clone https://github.com/ala-obeidat/FileCompressorApp.git
 cd FileCompressorApp
